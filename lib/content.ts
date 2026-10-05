@@ -46,10 +46,10 @@ export const CAPABILITIES = [
 
 export const PROCESS = [
   {
-    phase: "Day 1",
+    phase: "15 min",
     num: "01",
-    title: "We Learn What a Great Hire Looks Like",
-    body: "The roles, the hard requirements, and the thing a resume would miss entirely. Then the rules: how far it may go reviewing applications, the fairness requirements it must follow, and what never reaches a candidate without you.",
+    title: "You Tell It What a Great Hire Looks Like",
+    body: "The roles, the hard requirements, and the thing a resume would miss entirely. Then the rules: how far it may go reviewing applications, the fairness requirements it must follow, and what always waits for you before it reaches a candidate. That is the questionnaire, and your agent is built from it and running in about fifteen minutes.",
   },
   {
     phase: "Week 1",
@@ -137,7 +137,7 @@ export const FAQS = [
   },
   {
     q: "How long does setup take?",
-    a: "Most teams are live within two weeks. We configure it on your roles, your hard requirements, your interview process, your fairness rules and how you want candidates treated.",
+    a: "About fifteen minutes. The questionnaire is the configuration: your roles, your hard requirements, your interview process, your fairness rules and how you want candidates treated. Your agent is built from it and running as soon as you connect your tools. Hands-on onboarding and 30 days of training are available as an add-on, and come with every custom deployment.",
   },
   {
     q: "Does it replace a recruiter?",

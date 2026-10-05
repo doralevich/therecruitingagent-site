@@ -8,9 +8,9 @@ import { CAPABILITIES, PROCESS } from "@/lib/content";
 import { breadcrumb, pageMeta } from "@/lib/site";
 
 export const metadata: Metadata = pageMeta({
-  title: "How It Works: From Consultation to Running in Two Weeks",
+  title: "How It Works: Running in Fifteen Minutes, Better Every Week",
   description:
-    "What The Recruiting Agent does, how it gets configured around your roles, your real requirements and your fairness rules, and what the first two weeks actually look like.",
+    "What The Recruiting Agent does, how it gets configured around your roles, your real requirements and your fairness rules, and what the first weeks look like.",
   path: "/how-it-works",
   keywords: [
     "how recruiting AI works",
@@ -83,7 +83,7 @@ export default function Page() {
             <div className="text-center mb-12">
               <Label on="dark">The Timeline</Label>
               <h2 className="text-3xl md:text-4xl font-bold text-white leading-tight">
-                From Consultation to Running in 2 Weeks
+                Running in Fifteen Minutes. Better Every Week.
               </h2>
             </div>
             <div className="grid md:grid-cols-3 gap-8">
